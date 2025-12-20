@@ -1,6 +1,6 @@
 # Data Analytics and Intelligence – Assessment 1
 
-## 📌 Overview  
+## Overview  
 This project was completed as part of the **I304 – Data Analytics and Intelligence** course.  
 It applies **data analytics and machine learning techniques** using Python to solve real-world business intelligence problems.  
 
@@ -12,7 +12,7 @@ The assignment consists of four major tasks:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - **Python 3.x**  
 - **Pandas, NumPy** – Data manipulation  
 - **Matplotlib, Seaborn** – Data visualization  
@@ -21,7 +21,7 @@ The assignment consists of four major tasks:
 
 ---
 
-## 📝 Tasks Breakdown
+## Tasks Breakdown
 
 ### Task 1: Linear Regression – Stock Price Prediction
 - Retrieved stock data using **Yahoo Finance API**  
@@ -50,7 +50,7 @@ The assignment consists of four major tasks:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/data-analytics-assessment1.git
@@ -67,7 +67,7 @@ The assignment consists of four major tasks:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 - **Regression**: Achieved meaningful stock price predictions with acceptable R² scores.  
 - **Clustering**: K-Means formed well-separated customer groups in the credit card dataset.  
 - **Classification**: Both Logistic Regression and KNN achieved strong accuracy; Logistic Regression performed slightly better.  
@@ -75,7 +75,7 @@ The assignment consists of four major tasks:
 
 ---
 
-## 🎓 Course Information
+## Course Information
 - **Course**: I304 – Data Analytics and Intelligence  
 - **Programme**: Bachelor of Information and Communications Technology (Applied)  
 - **Assessment Weight**: 30%  
