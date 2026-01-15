@@ -1,4 +1,4 @@
-# Data Analytics and Intelligence – Assessment 1
+# Data Analytics and Intelligence
 
 ## Overview  
 This project was completed as part of the **I304 – Data Analytics and Intelligence** course.  
